@@ -1,0 +1,44 @@
+    <!-- jQuery Version 1.11.0 -->
+    <script src="{{ "/js/jquery.min.js" }}"></script>
+
+    <!-- Bootstrap Core JavaScript -->
+    <script src="{{ "/js/bootstrap.min.js" }}"></script>
+
+    <!-- Plugin JavaScript -->
+    <script src="{{ "/js/jquery.easing.min.js" }}"></script>
+    <script src="{{ "/js/classie.js" }}"></script>
+    <script src="{{ "/js/cbpAnimatedHeader.js" }}"></script>
+
+    <!-- Contact Form JavaScript -->
+    <script src="{{ "/js/jqBootstrapValidation.js" }}"></script>
+    {% if site.contact == "static" %}
+    <script src="{{ "/js/contact_me_static.js" }}"></script>
+    {% else %}
+     <script src="{{ "/js/contact_me.js" }}"></script>
+    {% endif %}
+
+    <!-- Custom Theme JavaScript -->
+    <script src="{{ "/js/freelancer.js" }}"></script>
+
+    <!-- JSON for Linked Data microdata for SEO -->
+    <script type="application/ld+json">
+    {
+      "@context": "http://schema.org/",
+      "@type": "Organization",
+      "name": "OmniSharp",
+      "description": "OmniSharp is a family of Open Source projects, each with one goal: To enable a great .NET experience in YOUR editor of choice",
+      "founder": {
+        "@type": "Person",
+        "name": "Jason Imison",
+        "url": "https://twitter.com/jasonimison"
+      },
+      "lead": {
+        "@type": "Person",
+        "name": "David Driscoll",
+        "url": "https://twitter.com/david_blacklite"
+      },
+      "logo": "http://www.omnisharp.net/images/logo.png",
+      "url": "http://www.omnisharp.net",
+      "sameAs": "https://github.com/OmniSharp"
+    }
+    </script>
