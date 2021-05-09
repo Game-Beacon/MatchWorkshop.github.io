@@ -1,5 +1,5 @@
 ---
-title: OmniSharp - .NET and IntelliSense on any platform with your editor of choice
+title: MatchWorkshop - MatchWorkshop is a society provide indie game developing opportunities
 layout: default
 ---
 
@@ -81,4 +81,4 @@ Jason Imison ([@nosami](http://github.com/nosami)), Jonathan Channon ([@jchannon
 
 ### Contact us
 
-<a class="btn btn-warning" href="https://omnisharp.herokuapp.com/"><strong>Come hang out with us on Slack!</strong></a>
+<a class="btn btn-warning" href="https://discord.com/invite/Nm78RDNM"><strong>Come hang out with us on Discord!</strong></a>
