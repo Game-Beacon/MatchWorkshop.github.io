@@ -6,7 +6,7 @@ layout: default
 ## Welcome to OmniSharp...for your editor!
 ![Look at all those editor icons!](images/icons.png?raw=true)
 
-OmniSharp is a family of Open Source projects, each with one goal - To enable great .NET development in YOUR editor of choice.
+MatchWorkshop is a society provide indie game developing opportunities.
 
 It's fun to say Cross Platform .NET. But is it reasonable for someone to develop .NET without Visual Studio and Windows?
 
@@ -53,7 +53,7 @@ And more info in the [OmniSharp Atom wiki](https://github.com/OmniSharp/omnishar
     - Install [Python 2.7.5](http://www.python.org/download/releases/2.7.5/)
     - Create some [keybindings](https://github.com/OmniSharp/Omnisharp#configuration)
 - Long version
-    - See [here](https://github.com/OmniSharp/Omnisharp)
+    - See [here](https://github.com/MatchWorkshop)
 
 ### Command line only
 - Create projects using <a href="https://www.npmjs.org/package/generator-aspnet">yeoman aspnet generators</a>
