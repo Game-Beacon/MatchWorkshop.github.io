@@ -3,7 +3,7 @@ title: MatchWorkshop - MatchWorkshop is a society provide indie game developing 
 layout: default
 ---
 
-## Welcome to OmniSharp...for your editor!
+## Welcome to MatchWorkshop...for your game!
 ![Look at all those editor icons!](images/icons.png?raw=true)
 
 MatchWorkshop is a society provide indie game developing opportunities.
@@ -29,19 +29,6 @@ Get [ASP.NET 5 for your platform](https://github.com/aspnet/home#getting-started
 - Install the [Omnisharp Atom](https://atom.io/packages/omnisharp-atom) package.
 
 And more info in the [OmniSharp Atom wiki](https://github.com/OmniSharp/omnisharp-atom/wiki)!
-
-### [Emacs](http://www.gnu.org/software/emacs/)
-- Short version
-    - Enable the [MELPA](http://melpa.org/#/getting-started) stable package archive. Use MELPA [stable](https://github.com/milkypostman/melpa#stable-packages) for official releases, or plain MELPA for development snapshots.
-    - `M-x package-install RET omnisharp RET`
-    - Clone [omnisharp-server](https://github.com/OmniSharp/omnisharp-server) to a location of your choosing
-    - Build it :)
-    - Download [curl](http://curl.haxx.se/download.html)
-    - Customize omnisharp with `M-x customize-group RET omnisharp RET`
-    - Currently there are default keybinding suggestions for `evil-mode` users [at github](https://github.com/OmniSharp/omnisharp-emacs/blob/master/example-config-for-evil-mode.el). Adopt them or create your own!
-    - Start omnisharp with `M-x omnisharp-mode RET` or automatically in a mode hook
-- Long version
-    - See [here](https://github.com/OmniSharp/omnisharp-emacs)
 
 ### [Brackets](http://brackets.io/)
 - Install the Omnisharp extension from the [extension manager](https://brackets-registry.aboutweb.com/) within Brackets.io
