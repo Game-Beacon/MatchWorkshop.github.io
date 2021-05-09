@@ -4,6 +4,7 @@ layout: default
 ---
 
 ## Welcome to MatchWorkshop...for your game!
+
 ![Look at all those editor icons!](images/icons.png?raw=true)
 
 MatchWorkshop is a society provide indie game developing opportunities.
@@ -16,55 +17,6 @@ Is it fun to do .NET on a Mac in Sublime? Ubuntu and Emacs? Windows and Atom? Yo
 
 ## Yes. Here's how to get started
 Get [ASP.NET 5 for your platform](https://github.com/aspnet/home#getting-started).
-
-### [Sublime Text 3](http://www.sublimetext.com/)
-- Install the <a href="https://sublime.wbond.net/packages/Kulture">Kulture</a> plugin from <a href="https://sublime.wbond.net/">Package Control</a>.
-- Install the <a href="https://sublime.wbond.net/packages/OmniSharp">OmniSharp</a> plugin from <a href="https://sublime.wbond.net/">Package Control</a> and read the docs [here](http://omnisharp-sublime.readthedocs.org/en/latest/).
-- Optionally change your <a href="https://github.com/OmniSharp/omnisharp-sublime#c-language-specific-settings">C# language settings to launch Intellisense on . and &lt;</a>.
-- Optionally install a <a href="https://sublime.wbond.net/packages/C%23%20Snippets">C# Snippets package</a>.
-
-
-### [Atom](https://atom.io/)
-- Install the [Autocomplete Plus](https://atom.io/packages/autocomplete-plus) package.
-- Install the [Omnisharp Atom](https://atom.io/packages/omnisharp-atom) package.
-
-And more info in the [OmniSharp Atom wiki](https://github.com/OmniSharp/omnisharp-atom/wiki)!
-
-### [Brackets](http://brackets.io/)
-- Install the Omnisharp extension from the [extension manager](https://brackets-registry.aboutweb.com/) within Brackets.io
-
-### [Vim](http://www.vim.org/)
-- Short version
-    - Install [OmniSharp](https://github.com/OmniSharp/Omnisharp), [vim-dispatch](https://github.com/tpope/vim-dispatch), [CtrlP](https://github.com/kien/ctrlp.vim) & [Syntastic](https://github.com/scrooloose/syntastic) using your favourite method.
-    - Build the OmniSharp server
-    - Install [Python 2.7.5](http://www.python.org/download/releases/2.7.5/)
-    - Create some [keybindings](https://github.com/OmniSharp/Omnisharp#configuration)
-- Long version
-    - See [here](https://github.com/MatchWorkshop)
-
-### Command line only
-- Create projects using <a href="https://www.npmjs.org/package/generator-aspnet">yeoman aspnet generators</a>
-- Download _NuGet_, _npm_ and _Bower_ resources  with `dnu restore`
-- Build projects using <code>dnu build</code>
-- Run project from the command line with <code>dnx . web</code> or <code>dnx . run</code>
-- Package projects for publishing with <code>dnu pack</code>
-
-### Yeoman generators
-
-Getting started with projects is easy using [yeoman](http://yeoman.io/). Here are some generators that you
-can use to get started.
-
-#### ```generator-aspnet```
-
-The goal of [```generator-aspnet```](https://github.com/OmniSharp/generator-aspnet) is to provide an experience consistent with creating new ASP.NET 5 (_DNX_) projects
-and files in Visual Studio 2015. Below are some other related generators that you may be interested in.
-
-If you are working on a related generator please [open an issue](https://github.com/OmniSharp/generator-aspnet/issues/new) to let us know about it so that we can add it to the list.
-
-
-## Authors and Contributors
-
-Jason Imison ([@nosami](http://github.com/nosami)), Jonathan Channon ([@jchannon](http://github.com/jchannon)), Martijn Laarman ([@Mpdreamz](http://github.com/Mpdreamz)), Mat McLoughlin ([@mat-mcloughlin](https://github.com/mat-mcloughlin)), Stephen James ([@stephen-james](http://github.com/stephen-james)), Sayed Ibrahim Hashimi ([@sayedihashimi](http://github.com/sayedihashimi)) Scott Hanselman ([@shanselman](http://github.com/shanselman)), Mika Vilpas [@sp3ctum](https://github.com/sp3ctum), and Shayne Boyer ([@spboyer](http://github.com/spboyer)).
 
 ### Contact us
 
