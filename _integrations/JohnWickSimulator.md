@@ -1,7 +1,7 @@
 ---
 name: JohnWickSimulator
 image: default_game.png
-header: JohnWickSimulator
+header: John Wick Simulator
 ---
 
 約翰‧維克在路上遭遇了襲擊
