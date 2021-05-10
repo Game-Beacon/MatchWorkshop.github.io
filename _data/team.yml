@@ -1,8 +1,24 @@
-- name: Jen-Chieh Shen
+- name: Yue (企劃)
+  image: SxTory.jpeg
+  github: SxTory
+
+- name: 阿半 (企劃)
+  image: lynn40725.jpeg
+  github: lynn40725
+
+- name: 特里斯卡 (美術)
+  image: henrykuh.jpeg
+  github: henrykuh
+
+- name: Yuki (程式)
+  image: aqurius01.jpeg
+  github: aqurius01
+
+- name: Pruss (程式)
+  image: zxc30314.jpeg
+  github: zxc30314
+
+- name: Jen-Chieh (程式)
   image: jcs090218.jpeg
   twitter: jenchieh94
   github: jcs090218
-
-- name: 特里斯卡
-  image: henrykuh.jpeg
-  github: henrykuh
