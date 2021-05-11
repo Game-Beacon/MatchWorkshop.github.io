@@ -1,6 +1,6 @@
 ---
 name: Sanguine_Rose
-image: default_game.png
+image: games/default.png
 header: 血玫瑰 Sanguine Rose
 ---
 

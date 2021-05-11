@@ -1,6 +1,6 @@
 ---
 name: JohnWickSimulator
-image: default_game.png
+image: games/default.png
 header: John Wick Simulator
 ---
 

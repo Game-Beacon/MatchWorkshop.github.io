@@ -1,6 +1,6 @@
 ---
 name: MoveUp
-image: default_game.png
+image: games/default.png
 header: Move Up
 ---
 
