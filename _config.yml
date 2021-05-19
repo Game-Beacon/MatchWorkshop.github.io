@@ -5,7 +5,7 @@ email: ycua541@gmail.com
 url: https://matchworkshop.github.io/
 description: "MatchWorkshop is a society provide indie game developing opportunities."
 collections:
-- integrations
+- games
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
