@@ -1,5 +1,5 @@
 ---
-title: MatchWorkshop - MatchWorkshop is a society provide indie game developing opportunities
+title: MatchWorkshop - a society provide indie game developing opportunities
 layout: default
 ---
 
