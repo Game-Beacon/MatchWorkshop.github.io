@@ -1,9 +1,9 @@
 # Site settings
-name: MatchWorkshop - 
-title: Indie Game Developer Community
+name: MatchWorkshop
+title: MatchWorkshop - Indie Game Developer Communityy
 email: ycua541@gmail.com
 url: https://matchworkshop.github.io/
-description: "MatchWorkshop is a society provide indie game developing opportunities."
+description: "a society provide indie game developing opportunities."
 collections:
 - games
 
