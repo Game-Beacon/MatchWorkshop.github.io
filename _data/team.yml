@@ -1,6 +1,6 @@
-- name: Yue (企劃)
-  image: SxTory.jpeg
-  github: SxTory
+- name: 綺麗 (企劃)
+  image: davidwu0123.png
+  github: davidwu0123
 
 - name: 阿半 (企劃)
   image: lynn40725.jpeg
@@ -9,9 +9,6 @@
 - name: 特里斯卡 (美術)
   image: henrykuh.jpeg
   github: henrykuh
-
-- name: Yuki (程式)
-  image: aqurius01.jpeg
 
 - name: Pruss (程式)
   image: zxc30314.jpeg
